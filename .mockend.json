@@ -1,5 +1,5 @@
 {
-  "brand": {
+  "Brand": {
     "logo": "string",
     "id": "int",
     "company": "string",
