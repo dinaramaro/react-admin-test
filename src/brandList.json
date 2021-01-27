@@ -1,0 +1,34 @@
+{
+  "brands": [
+    {
+      "logo": "https://cdn.1min30.com/wp-content/uploads/2018/04/Symbole-Levis.jpg",
+      "id": 1,
+      "company": "Levis",
+      "status": "actif"
+    },
+    {
+      "logo": "https://cdn.worldvectorlogo.com/logos/pampers-1.svg",
+      "id": 2,
+      "company": "Pampers",
+      "status": "invalide"
+    },
+    {
+      "logo": "https://logos-world.net/wp-content/uploads/2020/04/Samsung-Emblem.jpg",
+      "id": 3,
+      "company": "Samsung",
+      "status": "actif"
+    },
+    {
+      "logo": "https://cdn.1min30.com/wp-content/uploads/2019/05/Apple-logo-1.jpg",
+      "id": 4,
+      "company": "Apple",
+      "status": "à créer"
+    },
+    {
+      "logo": "https://seeklogo.com/images/H/hotpoint-ariston-logo-1A11214187-seeklogo.com.png",
+      "id": 5,
+      "company": "Hotpoint Ariston",
+      "status": "actif"
+    }
+  ]
+}

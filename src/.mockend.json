@@ -1,0 +1,8 @@
+{
+  "brand": {
+    "logo": "string",
+    "id": "int",
+    "company": "string",
+    "status": "string"
+  }
+}
